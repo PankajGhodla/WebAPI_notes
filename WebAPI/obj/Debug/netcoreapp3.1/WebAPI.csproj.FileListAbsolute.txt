@@ -1,0 +1,17 @@
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/bin/Debug/netcoreapp3.1/WebAPI.deps.json
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/bin/Debug/netcoreapp3.1/WebAPI.runtimeconfig.json
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/bin/Debug/netcoreapp3.1/WebAPI.runtimeconfig.dev.json
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/bin/Debug/netcoreapp3.1/WebAPI.dll
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/bin/Debug/netcoreapp3.1/WebAPI.pdb
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/obj/Debug/netcoreapp3.1/WebAPI.csprojAssemblyReference.cache
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/obj/Debug/netcoreapp3.1/WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/obj/Debug/netcoreapp3.1/WebAPI.AssemblyInfoInputs.cache
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/obj/Debug/netcoreapp3.1/WebAPI.AssemblyInfo.cs
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/obj/Debug/netcoreapp3.1/WebAPI.RazorTargetAssemblyInfo.cache
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/obj/Debug/netcoreapp3.1/staticwebassets/WebAPI.StaticWebAssets.Manifest.cache
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/obj/Debug/netcoreapp3.1/staticwebassets/WebAPI.StaticWebAssets.xml
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/obj/Debug/netcoreapp3.1/WebAPI.dll
+/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/obj/Debug/netcoreapp3.1/WebAPI.pdb
