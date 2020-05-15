@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91dfe995-7ea6-405e-a8b0-f807ea8d48bb" name="Default Changelist" comment="" />
+    <list default="true" id="91dfe995-7ea6-405e-a8b0-f807ea8d48bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WebAPI/Database/ApplicationDatabase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebAPI/Database/LogInModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebAPI/Database/SignInModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebAPI/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebAPI/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPI/Controllers/Log_in.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPI/Controllers/LogIn.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPI/Controllers/Sign_in.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPI/Controllers/SignIn.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPI/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPI/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPI/WebAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPI/WebAPI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPI/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPI/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPI/obj/Debug/netcoreapp3.1/WebAPI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPI/obj/Debug/netcoreapp3.1/WebAPI.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPI/obj/Debug/netcoreapp3.1/WebAPI.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPI/obj/Debug/netcoreapp3.1/WebAPI.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPI/obj/WebAPI.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPI/obj/WebAPI.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPI/obj/WebAPI.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPI/obj/WebAPI.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPI/obj/WebAPI.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPI/obj/WebAPI.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPI/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPI/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPI/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPI/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,18 +29,36 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/Log_in.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/Sign_in.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/LogIn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Database/ApplicationDatabase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Database/SignInModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Database/LogInModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/WeatherForecastController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/WeatherForecast.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/SignIn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/WebAPI/Controllers/Log_in.cs" />
         <option value="$PROJECT_DIR$/WebAPI/Controllers/Sign_in.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Controllers/Log_in.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Controllers/SignIn.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Database/SIgnInModel.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Database/SignInModel.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Database/LogInModel.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Startup.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Database/ApplicationDatabase.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/appsettings.json" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1bvrCpmLVPnMlryDyCtin0DcNcy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -76,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589523283173</updated>
-      <workItem from="1589523284851" duration="467000" />
+      <workItem from="1589523284851" duration="3220000" />
     </task>
     <servers />
   </component>
@@ -85,22 +121,33 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="199" key="GridCell.Tab.0.bottom" timestamp="1589523388577">
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom" timestamp="1589526752526">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1589523388577" />
-    <state width="1358" height="199" key="GridCell.Tab.0.center" timestamp="1589523388576">
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1589526752526" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center" timestamp="1589526752524">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1589523388576" />
-    <state width="1358" height="199" key="GridCell.Tab.0.left" timestamp="1589523388575">
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1589526752524" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left" timestamp="1589526752503">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1589523388575" />
-    <state width="1358" height="199" key="GridCell.Tab.0.right" timestamp="1589523388576">
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1589526752503" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right" timestamp="1589526752525">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1589523388576" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1589526752525" />
   </component>
 </project>

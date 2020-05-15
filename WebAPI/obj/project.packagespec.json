@@ -25,6 +25,28 @@
   },
   "frameworks": {
     "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[5.0.0-preview.3.20215.14, )"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[5.0.0-preview.3.20181.2, )"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "[5.0.0-preview.3.20181.2, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite": {
+          "target": "Package",
+          "version": "[5.0.0-preview.3.20181.2, )"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "target": "Package",
+          "version": "[5.0.0-preview.3.20181.2, )"
+        }
+      },
       "imports": [
         "net461",
         "net462",
@@ -43,7 +65,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "/Users/hello/.dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.202/RuntimeIdentifierGraph.json"
     }
   }
 }
