@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{049D1602-BEA0-48A5-B6A0-6F9E274CED46}|WebAPI">
+  <MonoDevelop.Ide.ItemProperties.notesapi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/Controllers/RegisterController.cs">
+    <Files>
+      <File FileName="WebAPI/Controllers/RegisterController.cs" Line="7" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="notesapi" expanded="True">
+            <Node name="notesapi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="RegisterController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

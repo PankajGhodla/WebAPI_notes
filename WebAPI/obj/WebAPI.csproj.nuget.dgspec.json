@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/WebAPI.csproj": {}
+    "C:\\Users\\Neeraj\\Desktop\\Pankaj\\WebAPI_notes\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/WebAPI.csproj": {
+    "C:\\Users\\Neeraj\\Desktop\\Pankaj\\WebAPI_notes\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Neeraj\\Desktop\\Pankaj\\WebAPI_notes\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/WebAPI.csproj",
-        "packagesPath": "/Users/hello/.nuget/packages/",
-        "outputPath": "/Users/hello/Documents/MSA/ASP Projects/WebAPI/WebAPI/obj/",
+        "projectPath": "C:\\Users\\Neeraj\\Desktop\\Pankaj\\WebAPI_notes\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Neeraj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neeraj\\Desktop\\Pankaj\\WebAPI_notes\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hello/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Neeraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -36,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.0-preview.3.20215.14, )"
@@ -59,6 +65,22 @@
             "Microsoft.EntityFrameworkCore.Tools.DotNet": {
               "target": "Package",
               "version": "[2.0.3, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.4.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[5.4.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.5.1, )"
             }
           },
           "imports": [
@@ -71,6 +93,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -79,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
